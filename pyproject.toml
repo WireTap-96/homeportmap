@@ -1,0 +1,6 @@
+[project]
+name = "homeportmap"
+version = "0.1.0"
+description = "Low-impact private home subnet TCP inventory"
+requires-python = ">=3.9"
+license = {text = "MIT"}
